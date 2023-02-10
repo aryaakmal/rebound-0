@@ -1,6 +1,6 @@
 breathe==4.13.0.post0
 Sphinx==2.1.2
-ipython==7.16.3
+ipython==8.10.0
 ipython-genutils==0.2.0
 notebook==6.4.12
 jupyter==1.0.0
